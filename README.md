@@ -1,5 +1,10 @@
 # 🧮 Calculator
 
+<div align="center">
+  <img src="./assets/Screenshot1.png" alt="Calculator Preview" />
+</div>
+
+
 A visually appealing and fully functional calculator designed with a modern touch using **HTML**, **CSS**, and **JavaScript**. Perfect for performing basic arithmetic while showcasing clean UI and smooth interactivity.
 
 ---
@@ -29,12 +34,6 @@ A visually appealing and fully functional calculator designed with a modern touc
    - Tap **AC** to reset all input.
    - Use **DEL** to delete the last entry.
    - Perform calculations and press **=** for results.
-
----
-
-## 🖼️ Screenshot
-
-![Calculator Preview](./assets/Screenshot1.png)
 
 ---
 
