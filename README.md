@@ -1,4 +1,4 @@
-# 🧮 Stylish Calculator
+# 🧮 Calculator
 
 A visually appealing and fully functional calculator designed with a modern touch using **HTML**, **CSS**, and **JavaScript**. Perfect for performing basic arithmetic while showcasing clean UI and smooth interactivity.
 
@@ -34,7 +34,7 @@ A visually appealing and fully functional calculator designed with a modern touc
 
 ## 🖼️ Screenshot
 
-![Calculator Preview]()
+![Calculator Preview](./assets/Screenshot1.png)
 
 ---
 
